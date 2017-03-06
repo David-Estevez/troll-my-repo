@@ -1,0 +1,3 @@
+[submodule "troll-my-repo"]
+	path = troll-my-repo
+	url = https://github.com/David-Estevez/troll-my-repo
