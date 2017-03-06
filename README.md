@@ -6,3 +6,5 @@ Este trabajo está sujeto a la licencia de fuente estricatmente abierta/ This pi
 
 ![](trollface.jpg)
 
+Venga, aquí un toller majete!!! Bercebus vino a molestar en Githhub!!!
+
