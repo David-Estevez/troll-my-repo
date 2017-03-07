@@ -6,5 +6,6 @@ Este trabajo está sujeto a la licencia de fuente estricatmente abierta/ This pi
 
 ![](trollface.jpg)
 
-Venga, aquí un toller majete!!! Bercebus vino a molestar en Githhub!!!
+Y [JorFru](http://disney.es) estuvo aquí: pasó para poner una issue, y se fue.
 
+Venga, aquí un toller majete!!! Bercebus vino a molestar en Githhub!!!
